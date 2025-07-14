@@ -1,0 +1,16 @@
+Reddit User Persona Report
+==============================
+
+Location:
+  - crap quality
+    Evidence: "from crap quality"
+
+Motivational Drivers:
+  - Wellness
+    Evidence: "A menu easy to cook/process - healthy and quick."
+  - Speed
+
+Reddit Usage Habits:
+  - {'active_hours': '4:00 - 19:00 UTC', 'top_subreddits': [('lucknow', 7), ('nagpur', 2), ('amiugly', 1)]}
+    Evidence: "Based on post timestamps and subreddits."
+
